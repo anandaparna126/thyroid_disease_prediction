@@ -39,6 +39,6 @@ The dataset used for this project may have its own licensing terms. Please refer
 
 ## Contact
 
-For any questions or inquiries, please contact [your email address].
+For any questions or inquiries, please contact anandaparna@gmail.com.
 
 Thank you for your interest in thyroid disease prediction using deep learning!
